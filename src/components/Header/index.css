@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.navbar-menu {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.menu-items {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+.nav-link {
+  cursor: pointer;
+  outline: none;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: bold;
+}
